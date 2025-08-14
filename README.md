@@ -1,9 +1,54 @@
-# Challenges-N-2-Desaf-o-Telecom-X
-Repositorio del segundo desafío del curso de Alura LATAM, parte de la Especialización en Data Science. Enfocado en el módulo 'Aprendiendo a hacer ETL', con el objetivo de aplicar los conocimientos adquiridos en manipulación, análisis y visualización de datos.
+# Proyecto: **Churn de Clientes – Telecom X**  
+**Análisis de Evasión de Clientes**
 
-Telecom X 
+---
+---
+## 🎯 Objetivo del Proyecto
+ **Identificar tendencias y variables relevantes** que expliquen la cancelación de clientes.
+---
+---
 
-1) Análisis de Evasión de Clientes
-Has sido contratado como asistente de análisis de datos en Telecom X y formarás parte del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
+## 📌 Descripción
 
-Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y sus principales bibliotecas para extraer información valiosa. A partir de tu análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
+La empresa ha detectado un alto índice de **churn**, pero aún no conoce el origen del problema.  
+
+Para resolverlo, recibimos un conjunto de datos que debemos:  
+
+- **Limpiar y procesar** el dataset proporcionado por la empresa.  
+- **Realizar un Análisis Exploratorio de Datos (EDA)** para detectar patrones y posibles causas de la evasión.  
+- **Entregar el dataset limpio** y los hallazgos al equipo de Ciencia de Datos, con el fin de desarrollar **modelos predictivos** y estrategias de retención. 
+
+---
+
+## 📄 Informe Final – Conclusiones
+
+Se deberá presentar las **conclusiones finales**, explicando las **posibles causas** que podrían estar generando la evasión de clientes.  
+
+El objetivo es que el análisis sirva como base para que el equipo de **Ciencia de Datos** pueda:  
+
+- 📈 Desarrollar un **análisis predictivo**.  
+- 🔍 Identificar con mayor precisión los **factores que influyen en la pérdida de clientes**.  
+- 🎯 Proponer **estrategias efectivas de retención**.  
+
+---
+
+## 📚 Información Académica
+Este proyecto corresponde a un **challenge** del curso de Especialización en Data Science de **Alura LATAM**, en el módulo **"Aprendiendo a hacer ETL"**.  
+Su propósito es **aplicar conocimientos de manipulación, análisis y visualización de datos** en un caso práctico.
+
+---
+
+## 🛠 Tecnologías y Librerías
+- **Python**  
+- **Pandas**
+-  **NumPy**  
+- **Matplotlib**
+-  **Seaborn**  
+- **Jupyter Notebook**
+
+---
+---
+
+## 👩‍💻 Autora
+
+**Jessica Robles**
